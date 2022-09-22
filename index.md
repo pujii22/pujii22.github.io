@@ -2,9 +2,10 @@
 
 ---
 
-### Week 1 
+### Week 1
+### Topik 1 & 2
 
-[Topik 1 & 2](Puji - Topik 1&2.ipynb)
+[Use Case Data Science pada Product Recommendation Engines di Sektor Pebankan](Topic 1 & 2  - Puji Lestari.pdf)
 
 ---
 ---
